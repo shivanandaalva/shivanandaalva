@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Shivananda Alva!
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivanandaalva&count_private=true&title_color=1f75fe&icon_color=FD9047&text_color=0C2233&custom_title=Shivananda+Alva%27s+GitHub+Stats&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanandaalva&layout=compact"/>
+
+📫 How to reach me: alvashivananda11@gmail.com
 
 <!--
 **shivanandaalva/shivanandaalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
